@@ -16,7 +16,7 @@ $u_t - \epsilon \Delta u = f$ <br />
 $u = 0$ at $y=1$
 
 
-<img height="200px" width="300px" src="Images/2d-1.jpeg">
+<img height="400px" width="700px" src="Images/2d-1.jpeg">
 
 
 ### Periodic Forcing Function
@@ -27,9 +27,9 @@ $u = 0$ on all Boundaries
 
 $f(x,y,t) = sin( 2\pi x) * sin(2 \pi y) * sin(2 \pi t)$
 
-<img height="200px" width="300px" src="Images/2d_2.jpeg">
+<img height="400px" width="700px" src="Images/2d_2.jpeg">
 
-<img height="200px" width="300px" src="Images/2d-3.jpeg">
+<img height="400px" width="700px" src="Images/2d-3.jpeg">
 
 
 ---
@@ -53,16 +53,16 @@ The stability of the following schemes have beeb studied for various CFL numbers
 
 
 #### Crank Nicholson
-<img height="200px" width="300px" src="Images/1d-1.png">
+<img height="400px" width="700px" src="Images/1d-1.png">
 
 #### FTBS
-<img height="200px" width="300px" src="Images/1d-2.png">
+<img height="400px" width="700px" src="Images/1d-2.png">
 
 #### CTCS
-<img height="200px" width="300px" src="Images/1d-3.png">
+<img height="400px" width="700px" src="Images/1d-3.png">
 
 #### BTBS
-<img height="200px" width="300px" src="Images/1d-1.png">
+<img height="400px" width="700px"  src="Images/1d-1.png">
 
 #### Summary :
 
@@ -74,16 +74,16 @@ The stability of the following schemes have beeb studied for various CFL numbers
 
 
 #### Crank Nicholson
-<img height="200px" width="300px" src="Images/1d-5.png">
+<img height="400px" width="700px" src="Images/1d-5.png">
 
 #### FTBS
-<img height="200px" width="300px" src="Images/1d-6.png">
+<img height="400px" width="700px"  src="Images/1d-6.png">
 
 #### CTCS
-<img height="200px" width="300px" src="Images/1d-7.png">
+<img height="400px" width="700px"  src="Images/1d-7.png">
 
 #### BTBS
-<img height="200px" width="300px" src="Images/1d-8.png">
+<img height="400px" width="700px" src="Images/1d-8.png">
 
 #### Summary :
 
@@ -95,16 +95,16 @@ The stability of the following schemes have beeb studied for various CFL numbers
 
 
 #### Crank Nicholson
-<img height="200px" width="300px" src="Images/1d-9.jpeg">
+<img height="400px" width="700px"  src="Images/1d-9.jpeg">
 
 #### FTBS
-<img height="200px" width="300px" src="Images/1d-10.png">
+<img height="400px" width="700px" src="Images/1d-10.png">
 
 #### CTCS
-<img height="200px" width="300px" src="Images/1d-11.png">
+<img height="200px" width="700px" src="Images/1d-11.png">
 
 #### BTBS
-<img height="200px" width="300px" src="Images/1d-12.png">
+<img height="200px" width="700px" src="Images/1d-12.png">
 
 #### Summary :
 
@@ -115,6 +115,6 @@ The stability of the following schemes have beeb studied for various CFL numbers
 ### **Overall Plot**
 
 
-<img height="200px" width="300px" src="Images/1d-13.png">
+<img height="400px" width="600px" src="Images/1d-13.png">
 <img src="Images/1dTable4.png" />
 
